@@ -22,6 +22,8 @@ Number of Instances: 13611
 
 Number of Attributes: 17
 
+![dataset](https://github.com/ngarg2k2/Parameter-Optimization-SVM/blob/main/dataset.png)
+
 ## Final Result Table
 
 | Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
